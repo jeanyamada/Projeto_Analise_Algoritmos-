@@ -1,4 +1,5 @@
-# Projeto_Analise_Algoritmos- Trabalho academico da disciplina Projeto e Análise de Algoritmos.Foi abordado os seguintes algoritmos:
+# Projeto_Analise_Algoritmos- Trabalho academico da disciplina Projeto e Análise de Algoritmos. 
+Foi abordado os seguintes algoritmos:
 • Bubble Sort
 • Bubble Sort melhorado
 • Quick Sort com pivo sendo primeiro elemento
